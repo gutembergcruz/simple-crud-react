@@ -13,8 +13,8 @@ Projetinho de fim de semana sem nenhum grande propósito. Projeto de Lista de co
 ## Como rodar o projeto
 
 Para instalar as dependências:
-### yarn
-Para iniciar o servidor com api Fake
-### json-server --watch products.json -p 3333
-Para iniciar a aplicação
+### yarn <br><br><br><br>
+Para iniciar o servidor com api Fake:
+### json-server --watch products.json -p 3333 <br><br><br><br>
+Para iniciar a aplicação:
 ### yarn start

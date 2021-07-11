@@ -1,6 +1,6 @@
 # Simple crud react
 
-Projetinho de fim de semana sem nenhum grande propósito. Projeto de Lista de comprar onde pode Criar, Editar, Visualizar e Excluir itens.
+Projetinho de fim de semana sem nenhum grande propósito. Projeto de Lista de compraS onde pode Criar, Editar, Visualizar e Excluir itens.
 
 ## Tecnologias usadas
 
